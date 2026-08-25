@@ -1,0 +1,23 @@
+candidato: "SEU NOME AQUI"
+modelo_usado: "llama-3.3-70b-versatile (Groq) — ou o que você efetivamente rodar"
+provedor: groq
+horas_dedicadas: 1
+
+nivel_1:
+  limpeza_dados:      {status: completo, onde: "nivel_1/nivel_1.ipynb, células 3-5"}
+  regras_pandas:      {status: completo, onde: "nivel_1/nivel_1.ipynb, células 7-9"}
+  validacao_regras:   {status: completo, onde: "nivel_1/nivel_1.ipynb, célula 10"}
+  saida_estruturada:  {status: completo, onde: "nivel_1/nivel_1.ipynb, células 14-15"}
+  comparacao_prompts: {status: completo, onde: "nivel_1/nivel_1.ipynb, células 12-16"}
+
+nivel_2:
+  regras_em_escala: {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+  ferramentas:      {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+  agente:           {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+  lote:             {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+  confronto:        {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+
+nivel_3:
+  trilha_escolhida: "nenhuma"
+  status: nao_feito
+  plano: "docs/DECISOES.md#nivel-3"
