@@ -11,11 +11,11 @@ nivel_1:
   comparacao_prompts: {status: completo, onde: "nivel_1/nivel_1.ipynb, células 12-16"}
 
 nivel_2:
-  regras_em_escala: {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
-  ferramentas:      {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
-  agente:           {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
-  lote:             {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
-  confronto:        {status: nao_feito, plano: "docs/DECISOES.md#nivel-2"}
+  regras_em_escala: {status: completo, plano: "docs/DECISOES.md#nivel-2"}
+  ferramentas:      {status: completo, plano: "docs/DECISOES.md#nivel-2"}
+  agente:           {status: completo, plano: "docs/DECISOES.md#nivel-2"}
+  lote:             {status: completo, plano: "docs/DECISOES.md#nivel-2"}
+  confronto:        {status: completo, plano: "docs/DECISOES.md#nivel-2"}
 
 nivel_3:
   trilha_escolhida: "nenhuma"
